@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    },
+    {
+      "id": "1b38",
+      "title": "alitte",
+      "views": 2000
+    },
+    {
+      "id": "3",
+      "title": "w",
+      "views": 3,
+      "isDeleted": true
+    },
+    {
+      "id": "4",
+      "title": "q",
+      "views": 4
+    },
+    {
+      "id": "5",
+      "title": "s",
+      "views": 3,
+      "isDeleted": false
+    },
+    {
+      "id": "6",
+      "title": "ss",
+      "views": 33,
+      "isDeleted": true
+    },
+    {
+      "id": "7",
+      "title": "s",
+      "views": 2,
+      "isDeleted": false
+    },
+    {
+      "id": "8",
+      "title": "ss",
+      "views": 11,
+      "isDeleted": true
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a coments",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
